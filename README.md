@@ -1,0 +1,1 @@
+# This is the second submission for module 8 task 3. Due to my difficult mindset at the time and the displeasure I feel towards "free" programs that so heavily limit the user before they cough up payment info for a free trial, I decided to use Krita: my preferred, Open-Source art program
